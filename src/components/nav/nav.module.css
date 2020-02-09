@@ -1,0 +1,23 @@
+.nav {
+    grid-area: nav;
+    background: green;
+  }
+
+.nav a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 22px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    transition: all .5s;
+}
+
+.nav a:hover {
+    color: gold;
+    text-decoration: none;
+}
+
+.active {
+    color: gold;
+}

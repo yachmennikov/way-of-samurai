@@ -1,0 +1,15 @@
+.paginationItem {
+  padding-left: 5px;
+  padding-top: 5px;
+}
+
+.paginationItem span {
+  border: 1px solid #000;
+  padding: 2px;
+  cursor: pointer;
+  margin-right: 2px;
+}
+
+.selectedPage {
+  font-weight: bold;
+}
